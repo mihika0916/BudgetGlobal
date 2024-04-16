@@ -45,29 +45,29 @@ BudgetGlobal is a versatile budget tracker and expense manager designed to simpl
 
 ### 2. Screen Archetypes
 
-- [ ] [list first screen here]
-* [list associated required story here]
-* ...
-list second screen here]
-* [list associated required story here]
-* ...
+- [ ] All entries screen
+* add entry, remove entry
+* clear all entries
+* add budget
+* switch currency
+
+- [ ] Insights screen
+* view week's total 
+* view remaining budget
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* All entries
+* Spending insights
+
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] [list first screen here]
-* [list screen navigation here]
-* ...
-- [ ] [list second screen here]
-* [list screen navigation here]
-* ...
+- [ ] editing entry info
+* entry info page
+
 
 ## Wireframes
 
