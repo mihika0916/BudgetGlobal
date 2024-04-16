@@ -102,13 +102,26 @@ additional features like predictive analytics or customization options are plann
 
 ## Schema 
 
-[This section will be completed in Unit 9]
+Sprint 1, features implemented:
+* [x] add/delete entries
+* [x] change currency
+* [x] view week's total      
 <div>
     <a href="https://www.loom.com/share/ca9aac20f2ed41da9ca33ca50bca1148">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ca9aac20f2ed41da9ca33ca50bca1148-with-play.gif">
     </a>
   </div>
 
+Sprint 2, features implemented:
+* [x] add budget
+* [x] view budget remaining on insights view
+* [x] clear week's entries     
+<div>
+    <a href="https://www.loom.com/share/d99787f74b754bb2bb0a20a6a2d6a432">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d99787f74b754bb2bb0a20a6a2d6a432-with-play.gif">
+    </a>
+  </div>
+  
 ### Models
 
 [Add table of models]
