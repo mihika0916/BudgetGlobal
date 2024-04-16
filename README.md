@@ -19,12 +19,34 @@ BudgetGlobal is a versatile budget tracker and expense manager designed to simpl
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
-- **Category:** : Finance & Travel
-- **Mobile:** : 
+- **Category:**
+Finance & Travel
+  
+- **Mobile:**
+Would incorporate local storage for quicker/offline access of finances
+Could incorporate push notifications for reaching budget/completion of a week
+could incorporate iOS widgets for better visibility on device
+
 - **Story:**
+App would allow for convinient tracking of daily expenses and budget
+it is relevant to college students like my peers trying to manage their expenses in a simple/uncomplicated way
+appeals to anyone looking to build a habit of maintaining a budget and keeping track of their expenses
+
 - **Market:**
+Targets a wide range of users of all ages
+market is saturated with finance-tracking apps
+clearly defined globally dispersed user base
+
 - **Habit:**
+users would open and interact with such an app daily to log expenses as they occur, check budgets regularly to stay within limits
+app encourages active participation, as users need to input their spending and earnings data
+
 - **Scope:**
+scope of this app is well-defined with clear functionality aimed at managing personal finances
+technical challenges might include implementing secure and accurate currency conversion APIs, user data privacy, and seamless synchronization
+additional features like predictive analytics or customization options are planned as future enhancements.
+
+
 
 ## Product Spec
 
