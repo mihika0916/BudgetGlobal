@@ -93,8 +93,6 @@ additional features like predictive analytics or customization options are plann
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 ![wireframes](https://github.com/mihika0916/finalproject/assets/101855274/aefbf508-dd55-4064-b9ce-2f670d3d59d8)
 
 
