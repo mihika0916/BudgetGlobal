@@ -1,7 +1,7 @@
 Original App Design Project - README Template
 ===
 
-# APP_NAME_HERE
+# BudgetGlobal
 
 ## Table of Contents
 
@@ -14,13 +14,13 @@ Original App Design Project - README Template
 
 ### Description
 
-[Description of your app]
+BudgetGlobal is a versatile budget tracker and expense manager designed to simplify personal finance. Seamlessly integrate your spending habits across multiple currencies, stay on top of your daily expenses, and manage your budgets with intuitive visual tools. Whether you're tracking routine purchases at home or managing funds during international travel, BudgetGlobal is your go-to financial planner, making every penny count and helping you achieve financial control.
 
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
+- **Category:** : Finance & Travel
+- **Mobile:** : 
 - **Story:**
 - **Market:**
 - **Habit:**
@@ -32,13 +32,16 @@ Original App Design Project - README Template
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User can add/delete entries (income/expense)
+* User can switch between currencies
+* User can view week's summary
+* User can set a budget and see progress towards it
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User can switch between weeks
+* User can add expense/income categories
+* User can view insights based on category
 
 ### 2. Screen Archetypes
 
