@@ -73,6 +73,8 @@ BudgetGlobal is a versatile budget tracker and expense manager designed to simpl
 
 [Add picture of your hand sketched wireframes in this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![wireframes](https://github.com/mihika0916/finalproject/assets/101855274/aefbf508-dd55-4064-b9ce-2f670d3d59d8)
+
 
 ### [BONUS] Digital Wireframes & Mockups
 
@@ -80,7 +82,8 @@ BudgetGlobal is a versatile budget tracker and expense manager designed to simpl
 
 ## Schema 
 
-[This section will be completed in Unit 9]
+[This section will b![Uploading Written homework 2.jpeg…]()
+e completed in Unit 9]
 
 ### Models
 
