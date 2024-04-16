@@ -102,8 +102,15 @@ additional features like predictive analytics or customization options are plann
 
 ## Schema 
 
-[This section will b![Uploading Written homework 2.jpeg…]()
-e completed in Unit 9]
+[This section will be completed in Unit 9]
+<div>
+    <a href="https://www.loom.com/share/ca9aac20f2ed41da9ca33ca50bca1148">
+      
+    </a>
+    <a href="https://www.loom.com/share/ca9aac20f2ed41da9ca33ca50bca1148">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ca9aac20f2ed41da9ca33ca50bca1148-with-play.gif">
+    </a>
+  </div>
 
 ### Models
 
