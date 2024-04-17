@@ -123,8 +123,7 @@ Sprint 2, features implemented:
   </div>
 
 
-Final:
-Features implemented:
+Final Features implemented:
 * [x] view detail view of each entry
 * [x] edit name, value, notes of entry
 <div>
