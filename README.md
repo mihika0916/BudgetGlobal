@@ -132,6 +132,12 @@ Final Features implemented:
     </a>
   </div>
 
+<div>
+    <a href="https://www.loom.com/share/d99787f74b754bb2bb0a20a6a2d6a432">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d99787f74b754bb2bb0a20a6a2d6a432-with-play.gif">
+    </a>
+  </div>
+
 
   
 
