@@ -126,20 +126,14 @@ Sprint 2, features implemented:
 Final Features implemented:
 * [x] view detail view of each entry
 * [x] edit name, value, notes of entry
-<div>
+
+  <div>
     <a href="https://www.loom.com/share/1379b062297043bc920d5d6737a2ffde">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1379b062297043bc920d5d6737a2ffde-with-play.gif">
-    </a>
-  </div>
-
-<div>
-    <a href="https://www.loom.com/share/d99787f74b754bb2bb0a20a6a2d6a432">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d99787f74b754bb2bb0a20a6a2d6a432-with-play.gif">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1379b062297043bc920d5d6737a2ffde-1713319989452-with-play.gif">
     </a>
   </div>
 
 
-  
 
 
 ### Networking
